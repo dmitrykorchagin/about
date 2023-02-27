@@ -4,7 +4,7 @@ Hi 👋 My name is Dmitry Korchagin
 Frontend developer
 ------------------
 
-* 🌍  I'm based in Tbilisi
+* 🌍  I'm based in Saint-Petersburg/Tbilisi
 * ✉️  You can contact me at [touchzie@yandex.ru](mailto:touchzie@yandex.ru)
 * 🧠  I'm learning Next.js
 
